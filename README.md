@@ -22,7 +22,7 @@ Clone this repository in your existing `themes/` folder.
 
 ```bash
 cd themes/
-git clone git@github.com:maartenpaauw/home-assistant-community-themes.git
+git clone https://github.com/maartenpaauw/home-assistant-community-themes.git
 ```
 
 Add the following code to your `configuration.yaml` file.
