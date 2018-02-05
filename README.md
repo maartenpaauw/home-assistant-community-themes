@@ -25,6 +25,13 @@ cd themes/
 git clone https://github.com/maartenpaauw/home-assistant-community-themes.git
 ```
 
+Or using submodules:
+
+```bash
+cd themes/
+git submodule add https://github.com/maartenpaauw/home-assistant-community-themes.git
+```
+
 Add the following code to your `configuration.yaml` file.
 
 ```yaml
