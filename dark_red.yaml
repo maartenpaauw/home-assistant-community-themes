@@ -11,7 +11,7 @@ dark_red:
   primary-color: "#d32f2f"
   primary-text-color: "#cfcfcf"
   secondary-background-color: "#131313"
-  sidebar-text_-_background: "#62717b" 
+  sidebar-text_-_background: "#62717b"
   paper-card-header-color: "var(--paper-item-icon-color)"
   paper-item-icon-active-color: "var(--primary-color)"
   paper-item-icon_-_color: "var(--primary-text-color)"
