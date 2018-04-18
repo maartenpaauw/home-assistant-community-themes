@@ -18,7 +18,9 @@
 | Black and Green | [GreenTurtwig](https://community.home-assistant.io/u/GreenTurtwig) posted [Black and Green Theme](https://community.home-assistant.io/t/black-and-green-theme/28602) | teal                |
 | Vintage         | [surendran.anup](https://community.home-assistant.io/u/surendran.anup) posted [Vintage Theme](https://community.home-assistant.io/t/vintage-theme/42806) | vintage             |
 
-## Installation
+> Do you enjoy one of the community themes? Show the creator some love by pressing the :heart: under the body of the post.
+
+##  Installation
 
 Clone this repository in your existing `themes/` folder.
 
