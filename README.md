@@ -22,7 +22,7 @@
 
 ##  Installation
 
-Clone this repository in your existing `themes/` folder.
+Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
