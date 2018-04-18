@@ -14,6 +14,7 @@
 | Material Dark   | [matust](https://community.home-assistant.io/u/matust) posted [Material dark theme](https://community.home-assistant.io/t/material-dark-theme/30796) | material_dark_green |
 | Midnight        | [marcelhoffs](https://community.home-assistant.io/u/marcelhoffs) posted [Midnight Theme](https://community.home-assistant.io/t/midnight-theme/28598) | midnight            |
 | Grey Night      | [ksya](https://community.home-assistant.io/u/ksya) posted [Grey Night theme](https://community.home-assistant.io/t/grey-night-theme/30848) | night               |
+| Solarized Light | [snwtoy](https://community.home-assistant.io/u/snwtoy) posted [Solarized Light theme](https://community.home-assistant.io/t/solarized-light-theme/42713) | solarized_light     |
 | Black and Green | [GreenTurtwig](https://community.home-assistant.io/u/GreenTurtwig) posted [Black and Green Theme](https://community.home-assistant.io/t/black-and-green-theme/28602) | teal                |
 | Vintage         | [surendran.anup](https://community.home-assistant.io/u/surendran.anup) posted [Vintage Theme](https://community.home-assistant.io/t/vintage-theme/42806) | vintage             |
 
