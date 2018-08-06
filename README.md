@@ -20,6 +20,8 @@
 
 > Do you enjoy one of the community themes? Show the creator some love by pressing the :heart: under the body of the post.
 
+Your theme not listed? Create a pull request or an issue.
+
 ##  Installation
 
 Clone this repository in your existing (or create it) `themes/` folder.
