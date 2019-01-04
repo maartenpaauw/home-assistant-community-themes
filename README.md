@@ -12,6 +12,7 @@
 | Another Dark    | [lambtho](https://community.home-assistant.io/u/lambtho) posted [Another Dark Theme](https://community.home-assistant.io/t/another-dark-theme/28595)                 | dark                |
 | Halloween       | [skalavala](https://community.home-assistant.io/u/skalavala) posted [Halloween Theme](https://community.home-assistant.io/t/halloween-theme/30872)                   | halloween           |
 | Material Dark   | [matust](https://community.home-assistant.io/u/matust) posted [Material dark theme](https://community.home-assistant.io/t/material-dark-theme/30796)                 | material_dark_green |
+| Material Dark Red   | [95gabor](https://community.home-assistant.io/u/95gabor) posted [Material dark red theme](#)                 | material_dark_red |
 | Midnight        | [marcelhoffs](https://community.home-assistant.io/u/marcelhoffs) posted [Midnight Theme](https://community.home-assistant.io/t/midnight-theme/28598)                 | midnight            |
 | Grey Night      | [ksya](https://community.home-assistant.io/u/ksya) posted [Grey Night theme](https://community.home-assistant.io/t/grey-night-theme/30848)                           | night               |
 | Solarized Light | [snwtoy](https://community.home-assistant.io/u/snwtoy) posted [Solarized Light theme](https://community.home-assistant.io/t/solarized-light-theme/42713)             | solarized_light     |
