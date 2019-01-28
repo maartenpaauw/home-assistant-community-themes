@@ -5,6 +5,7 @@
 
 | Theme           | Credits                                                                                                                                                              | Variable            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Amoled          | [lance36](https://community.home-assistant.io/u/lance36) posted [Amoled Theme](https://community.home-assistant.io/t/amoled-theme/94875)                             | amoled              |
 | Christmas       | [moose517](https://community.home-assistant.io/u/moose517) posted [Christmas Theme](https://community.home-assistant.io/t/christmas-theme/34036)                     | christmas           |
 | Dark Cyan       | [broesie](https://community.home-assistant.io/u/broesie) posted [Dark Cyan Theme](https://community.home-assistant.io/t/dark-cyan-theme/28594)                       | dark_cyan           |
 | Dark Orange     | [Bram_Kragten](https://community.home-assistant.io/u/Bram_Kragten) posted [Orange Theme](https://community.home-assistant.io/t/orange-theme/28601)                   | dark_orange         |
@@ -18,7 +19,6 @@
 | Sublimination   | [MikaelSchultz](https://community.home-assistant.io/u/MikaelSchultz) posted [Sublimination Theme](https://community.home-assistant.io/t/sublimination-theme/67312)   | sublimination       |
 | Black and Green | [GreenTurtwig](https://community.home-assistant.io/u/GreenTurtwig) posted [Black and Green Theme](https://community.home-assistant.io/t/black-and-green-theme/28602) | teal                |
 | Vintage         | [surendran.anup](https://community.home-assistant.io/u/surendran.anup) posted [Vintage Theme](https://community.home-assistant.io/t/vintage-theme/42806)             | vintage             |
-| Amoled          | [lance36](https://community.home-assistant.io/u/lance36) posted [Amoled Theme](https://community.home-assistant.io/t/amoled-theme/94875)                                                                            | amoled             |
 
 > Do you enjoy one of the community themes? Show the creator some love by pressing the :heart: under the body of the post.
 
