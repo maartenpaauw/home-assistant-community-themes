@@ -35,7 +35,7 @@ amoled:
   paper-toggle-button-checked-ink-color: "var(--accent-color)"
   paper-toggle-button-unchecked-button-color: "var(--disabled-text-color)"
   paper-toggle-button-unchecked-bar-color: "var(--disabled-text-color)"
-  paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"  
+  paper-toggle-button-unchecked-ink-color: "var(--disabled-text-color)"
   paper-slider-knob-color: "var(--accent-color)"
   paper-slider-knob-start-color: "var(--accent-color)"
   paper-slider-pin-color: "var(--accent-color)"
