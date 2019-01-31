@@ -5,6 +5,7 @@
 
 | Theme           | Credits                                                                                                                                                              | Variable            |
 | --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Amoled          | [lance36](https://community.home-assistant.io/u/lance36) posted [Amoled Theme](https://community.home-assistant.io/t/amoled-theme/94875)                             | amoled              |
 | Christmas       | [moose517](https://community.home-assistant.io/u/moose517) posted [Christmas Theme](https://community.home-assistant.io/t/christmas-theme/34036)                     | christmas           |
 | Dark Cyan       | [broesie](https://community.home-assistant.io/u/broesie) posted [Dark Cyan Theme](https://community.home-assistant.io/t/dark-cyan-theme/28594)                       | dark_cyan           |
 | Dark Orange     | [Bram_Kragten](https://community.home-assistant.io/u/Bram_Kragten) posted [Orange Theme](https://community.home-assistant.io/t/orange-theme/28601)                   | dark_orange         |
