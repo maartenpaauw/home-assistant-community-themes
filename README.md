@@ -40,6 +40,7 @@ git clone https://github.com/maartenpaauw/home-assistant-community-themes.git
 ```
 
 Or using submodules:
+
 ```bash
 cd themes/
 git submodule add https://github.com/maartenpaauw/home-assistant-community-themes.git
