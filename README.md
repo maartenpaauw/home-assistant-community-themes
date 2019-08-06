@@ -18,11 +18,12 @@
 | Material Dark Red   | [95gabor](https://community.home-assistant.io/u/95gabor) posted [Material dark red theme](https://community.home-assistant.io/t/material-dark-red-frontend-theme/100690)                 | material_dark_red |
 | Midnight        | [marcelhoffs](https://community.home-assistant.io/u/marcelhoffs) posted [Midnight Theme](https://community.home-assistant.io/t/midnight-theme/28598)                 | midnight            |
 | Grey Night      | [ksya](https://community.home-assistant.io/u/ksya) posted [Grey Night theme](https://community.home-assistant.io/t/grey-night-theme/30848)                           | night               |
+| Nord            | [Jasperro](https://community.home-assistant.io/u/jasperro) posted [Nord Theme](https://community.home-assistant.io/t/nord-theme/129301)             | nord                |
 | Solarized Light | [snwtoy](https://community.home-assistant.io/u/snwtoy) posted [Solarized Light theme](https://community.home-assistant.io/t/solarized-light-theme/42713)             | solarized_light     |
 | Sublimination   | [MikaelSchultz](https://community.home-assistant.io/u/MikaelSchultz) posted [Sublimination Theme](https://community.home-assistant.io/t/sublimination-theme/67312)   | sublimination       |
 | Black and Green | [GreenTurtwig](https://community.home-assistant.io/u/GreenTurtwig) posted [Black and Green Theme](https://community.home-assistant.io/t/black-and-green-theme/28602) | teal                |
 | Vintage         | [surendran.anup](https://community.home-assistant.io/u/surendran.anup) posted [Vintage Theme](https://community.home-assistant.io/t/vintage-theme/42806)             | vintage             |
-| Nord            | [Jasperro](https://community.home-assistant.io/u/jasperro) posted [Nord Theme](https://community.home-assistant.io/t/nord-theme/129301)             | nord                |
+
 
 
 > Do you enjoy one of the community themes? Show the creator some love by pressing the :heart: under the body of the post.
@@ -39,7 +40,6 @@ git clone https://github.com/maartenpaauw/home-assistant-community-themes.git
 ```
 
 Or using submodules:
-
 ```bash
 cd themes/
 git submodule add https://github.com/maartenpaauw/home-assistant-community-themes.git
