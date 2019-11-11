@@ -43,3 +43,4 @@ vintage:
   paper-font-headline_-_font-family: "var(--primary-font-family)"
   paper-font-caption_-_font-family: "var(--primary-font-family)"
   paper-font-title_-_font-family: "var(--primary-font-family)"
+  card-background-color: var(--paper-card-background-color)
