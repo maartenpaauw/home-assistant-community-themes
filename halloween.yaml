@@ -29,3 +29,4 @@ halloween:
   paper-item-icon-active-color: "#ff0000"
   paper-item-icon_-_color: "var(--primary-text-color)"
   paper-toggle-button-unchecked-bar-color: "var(--primary-text-color)"
+  card-background-color: var(--paper-card-background-color)

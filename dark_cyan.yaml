@@ -26,3 +26,4 @@ dark_cyan:
   paper-toggle-button-checked-button-color: "var(--primary-color)"
   paper-toggle-button-checked-bar-color: "var(--light-primary-color)"
   paper-toggle-button-unchecked-bar-color: "var(--primary-text-color)"
+  card-background-color: var(--paper-card-background-color)

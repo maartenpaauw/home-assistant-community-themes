@@ -45,3 +45,4 @@ solarized_light:
   paper-slider-disabled-secondary-color: "var(--disabled-text-color)"
   google-red-500: "#dc322f"
   google-green-500: "#859900"
+  card-background-color: var(--paper-card-background-color)

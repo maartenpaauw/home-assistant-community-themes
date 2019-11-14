@@ -30,3 +30,4 @@ material_dark_red:
   secondary-text-color: "var(--primary-color)"
   table-row-background-color: "var(--paper-card-background-color)"
   table-row-alternative-background-color: "var(--sidebar-text_-_background)"
+  card-background-color: var(--paper-card-background-color)

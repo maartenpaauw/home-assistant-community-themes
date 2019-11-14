@@ -44,3 +44,4 @@ material_dark_green:
   label-badge-grey: "var(--pink)"
   table-row-background-color: "var(--light_grey)"
   table-row-alternative-background-color: "var(--dark_grey)"
+  card-background-color: var(--paper-card-background-color)

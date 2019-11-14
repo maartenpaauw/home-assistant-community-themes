@@ -18,3 +18,4 @@ christmas:
   paper-toggle-button-checked-bar-color: "#DCD736"
   paper-slider-knob-color: "#DCD736"
   paper-slider-active-color: "#DCD736"
+  card-background-color: var(--paper-card-background-color)
