@@ -1,29 +1,74 @@
 dark_cyan:
+
+  # Fonts
   primary-color: "#00bcd4"
+
+  # Text
   disabled-text-color: "#545454"
-  divider-color: "rgba(255, 255, 255, 0.12)"
-  paper-card-background-color: "#4e4e4e"
-  paper-grey-200: "#191919"
-  paper-item-icon-color: "#d3d3d3"
-  paper-listbox-background-color: "#202020"
-  paper-listbox-color: "#FFFFFF"
-  primary-background-color: "#303030"
   primary-text-color: "#cfcfcf"
-  secondary-background-color: "#2b2b2b"
   secondary-text-color: "#04a7bc"
-  label-badge-background-color: "var(--secondary-background-color)"
-  label-badge-text-color: "var(--text-primary-color)"
-  paper-card-header-color: "#var(--paper-item-icon-color)"
+
+  # Main Colors
+  paper-grey-200: "#191919"
   paper-grey-50: "var(--primary-text-color)"
+
+  # Background
+  primary-background-color: "#303030"
+  paper-listbox-background-color: "#202020"
+  secondary-background-color: "#2b2b2b"
+
+  # Card
+  paper-card-background-color: "#4e4e4e"
+  paper-card-header-color: "#var(--paper-item-icon-color)"
+  card-background-color: var(--paper-card-background-color)
+
+  # Icons
+  paper-item-icon-color: "#d3d3d3"
   paper-item-icon-active-color: "var(--primary-color)"
   paper-item-icon_-_color: "var(--primary-text-color)"
+
+  # Sliders
   paper-slider-active-color: "var(--primary-color)"
   paper-slider-knob-color: "var(--primary-color)"
   paper-slider-knob-start-color: "var(--primary-color)"
   paper-slider-pin-color: "var(--primary-color)"
   paper-slider-secondary-color: "var(--light-primary-color)"
+
+  # Toggle
   paper-toggle-button-checked-ink-color: "var(--dark-primary-color)"
   paper-toggle-button-checked-button-color: "var(--primary-color)"
   paper-toggle-button-checked-bar-color: "var(--light-primary-color)"
   paper-toggle-button-unchecked-bar-color: "var(--primary-text-color)"
-  card-background-color: var(--paper-card-background-color)
+
+  # Switch
+  switch-unchecked-color: '#70889e'
+  switch-checked-button-color: 'var(--primary-color)'
+  switch-unchecked-track-color: 'var(--secondary-background-color)'
+  switch-checked-track-color: 'var(--secondary-background-color)'
+
+  # Radio Button
+  paper-radio-button-checked-color: 'var(--primary-color)'
+
+  # Popups
+  more-info-header-background: 'var(--secondary-background-color)'
+  paper-dialog-background-color: 'var(--background-color)' #'rgba(47,59,82,0.4)'
+
+  # Tables
+  table-row-background-color: 'var(--background-color)'
+  table-row-alternative-background-color: 'var(--paper-card-background-color)'
+
+  # Badges
+  label-badge-background-color: "var(--secondary-background-color)"
+  label-badge-text-color: "var(--text-primary-color)"
+
+  # Sidebar
+  sidebar-background-color: 'var(--background-color)'
+  sidebar-icon-color: '#98a7b9'
+  sidebar-selected-icon-color: 'var(--accent-color)'
+  sidebar-selected-text-color: 'var(--text-color)'
+  paper-listbox-color: "#FFFFFF"
+  paper-listbox-background-color: 'var(--sidebar-background-color)'
+  divider-color: "rgba(255, 255, 255, 0.12)"
+  light-primary-color: 'var(--paper-card-background-color)'
+
+
